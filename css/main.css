@@ -6,3 +6,17 @@ body{
 .wi{
     height: 400px;
 }
+.main{
+    background-image: url(../images/dance.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mtop{
+    margin-top: 20%;
+}
+.foot{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
